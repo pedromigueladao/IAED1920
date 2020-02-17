@@ -37,7 +37,7 @@ else
     echo "Program successfully compiled..."
 fi
 
-stamp=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n 1`
+stamp=${RANDOM}${RANDOM}
 student_out=/tmp/in_${stamp}
 ./${prog_name} <${test_in} | sed -e 's/\r$//' > ${student_out}
 rv1=$?
