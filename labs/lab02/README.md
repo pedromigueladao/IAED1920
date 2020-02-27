@@ -4,7 +4,7 @@
 
 # ex011
 
-(Ordena 2) Escreva um programa que leia dois inteiros positivos `N, M` e imprima o menor deles
+(Ordena 2) Escreva um programa que leia dois inteiros `N, M` e imprima o menor deles
 na primeira linha e o maior na segunda.
 
 # ex012
