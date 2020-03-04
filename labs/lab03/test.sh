@@ -14,7 +14,7 @@ fi
 prog_name="${1}"
 cfile="${1}".c
 DIFF="diff --ignore-space-change --ignore-blank-lines"
-CC="gcc -ansi -Wall -Wextra -pedantic"
+CC="gcc -ansi -Wall -Wextra -Werror -pedantic"
 
 if [ ! -f "${cfile}" ]; then
     echo "ERROR: file ${cfile} not found!"
