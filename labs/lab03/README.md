@@ -83,7 +83,7 @@ O facto pode ser observado pela equação seguinte: 7 x 100 + 2 x 10 + 9 = (7 x 
 
 A sequência no input termina com `\n`.
 
-Pode supor que cada dois números são sempre separados por `espaço, operador, espaço`, ie, `' op '`, para qualquer um dos 4 operadores acima.
+Pode supor que cada dois números são sempre separados por `espaço, operador, espaço`, ie, `' op '`, para qualquer um dos 2 operadores acima.
 
 _Exemplo_: No input `70 + 22 - 3` deverá retornar `89`.
 
