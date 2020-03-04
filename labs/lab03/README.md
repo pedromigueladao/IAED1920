@@ -79,7 +79,7 @@ O facto pode ser observado pela equação seguinte: 7 x 100 + 2 x 10 + 9 = (7 x 
 
 # ex07
 
-(Calculadora) Escreva um programa que recebe uma sequência de números e operadores (`+`, `-`) representando uma expressão aritmética e retorna o resultado dessa expressão aritmética.
+(Calculadora) Escreva um programa que receba uma sequência de números e operadores (`+`, `-`) representando uma expressão aritmética e retorna o resultado dessa expressão aritmética.
 
 A sequência no input termina com `\n`.
 
