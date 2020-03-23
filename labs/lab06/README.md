@@ -61,9 +61,9 @@ Implemente um programa que leia linhas da forma acima e que:
 
 - Para a linha `a N` imprima `Bem Vindo passageiro N`
 - Para a linha `b` imprima `OK!`
-- Para a linha `c N:M:L` imprima `O Passageiro N esta sentado na fila M, lugar N`
+- Para a linha `c N:M:L` imprima `O Passageiro N esta sentado na fila M, lugar L`
 - Para a linha `d N:M` imprima `Ha lugares disponiveis na fila N, lugar M`
-- Para a linha `e S:N:M:L` imprima `Bem vindo S. O seu identificador eh N e esta sentado na fila M, lugar N`
+- Para a linha `e S:N:M:L` imprima `Bem vindo S. O seu identificador eh N e esta sentado na fila M, lugar L`
 - A linha `f` termina o programa
 
 Relembramos que estas linhas podem aparecer por qualquer ordem e em qualquer número.
