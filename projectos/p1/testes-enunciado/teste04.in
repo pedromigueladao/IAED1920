@@ -1,0 +1,13 @@
+a croquetes:1:1:10
+a mostarda:2:2:200
+a pao:3:3:300
+N
+A 0:0:1
+A 0:1:2
+A 0:2:3
+L 0
+C 0
+C 1
+p 0:2
+L 0
+x

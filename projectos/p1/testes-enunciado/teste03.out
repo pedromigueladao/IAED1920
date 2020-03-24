@@ -1,0 +1,28 @@
+Novo produto 0.
+Novo produto 1.
+Novo produto 2.
+Nova encomenda 0.
+Produtos
+* croquetes 1 9
+* mostarda 2 198
+* pao 3 297
+Impossivel remover stock do produto 3. Produto inexistente.
+Produtos
+* croquetes 1 1
+* mostarda 2 198
+* pao 3 297
+Produtos
+* croquetes 1 0
+* mostarda 2 198
+* pao 3 297
+Impossivel remover 1 unidades do produto 0 do stock. Quantidade insuficiente.
+Produtos
+* croquetes 1 0
+* mostarda 2 198
+* pao 3 297
+Impossivel remover produto 0 a encomenda 1. Encomenda inexistente.
+Impossivel remover produto 3 a encomenda 0. Produto inexistente.
+Encomenda 0
+* croquetes 1 1
+* mostarda 2 2
+Impossivel listar encomenda 1. Encomenda inexistente.
