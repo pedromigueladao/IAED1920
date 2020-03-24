@@ -63,11 +63,11 @@ Implemente um programa que leia linhas da forma acima e que:
 - Para a linha `b` imprima `OK!`
 - Para a linha `c N:M:L` imprima `O Passageiro N esta sentado na fila M, lugar L`
 - Para a linha `d N:M` imprima `Ha lugares disponiveis na fila N, lugar M`
-- Para a linha `e S:N:M:L` imprima `Bem vindo S. O seu identificador eh N e esta sentado na fila M, lugar L`
+- Para a linha `e S:N:M:L` imprima `Bem vindo S. O seu numero identificador eh N e esta sentado na fila M, lugar L`
 - A linha `f` termina o programa
 
 Relembramos que estas linhas podem aparecer por qualquer ordem e em qualquer número.
-Ao tratar de strings no comando `e` podem assumir que não vão ter mais de 80 caracteres.
+Ao tratar de strings no comando `e` podem assumir que estas não vão ter mais de 80 caracteres.
 
 Se `ficheiro1` for um ficheiro que contém os comandos acima, executando o programa `./processa < ficheiro1` deverá retornar
 
