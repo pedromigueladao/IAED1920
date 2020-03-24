@@ -67,6 +67,7 @@ Implemente um programa que leia linhas da forma acima e que:
 - A linha `f` termina o programa
 
 Relembramos que estas linhas podem aparecer por qualquer ordem e em qualquer número.
+Ao tratar de strings no comando `e` podem assumir que não vão ter mais de 80 caracteres.
 
 Se `ficheiro1` for um ficheiro que contém os comandos acima, executando o programa `./processa < ficheiro1` deverá retornar
 
