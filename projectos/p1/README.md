@@ -87,7 +87,7 @@ Os comandos disponíveis são descritos de seguida. Cada comando indica uma dete
   * Formato de saída: NADA (excepto erro)
   * Erros:
     * `Impossivel remover stock do produto <idp>. Produto inexistente.` no caso de não existir nenhum produto criado com esse identificador
-    * `Impossivel remover <qtd> unidades do produto <idp> do stock. Quantidade insuficiente.` no caso de a quantidade de stock restante após a remoção ser negativa ~~ou ser insuficiente para satisfazer as encomendas existentes~~
+    * `Impossivel remover <qtd> unidades do produto <idp> do stock. Quantidade insuficiente.` no caso de a quantidade de stock restante após a remoção ser negativa
 * __R__ - remove um produto de uma encomenda
   * Formato de entrada: `R ide:idp`
   * Formato de saída: NADA (excepto erro)
