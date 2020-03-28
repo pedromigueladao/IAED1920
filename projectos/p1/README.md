@@ -150,6 +150,10 @@ O programa deverá escrever no standard output as respostas aos comandos apresen
 
 Ver os exemplos de input e respectivos output na pasta `testes_enunciado/`.
 
+Foram disponiblizados novos exemplos de input e respectivos output na pasta `testes_publicos/`. Para uma maior facilidade de debug os produtos criados com o comando `a` nestes exemplos têm como sufixo o seu `idp`, ie, a sua descrição é `string-aleatoria-idp` onde `idp` é o seu identificador. __NOTAR que as descrições dos produtos nos testes avaliados no Mooshak não terão este formato. Este é só para facilitar o debug durante o desenvolvimento.__
+
+Existem ainda outros 4 exemplos que pelo seu tamanho encontram-se disponíveis [aqui](https://fenix.tecnico.ulisboa.pt/downloadFile/845043405518428/testes-publicos.zip).
+
 ## 6. Compilação do Programa
 
 O compilador a utilizar é o `gcc` com as seguintes opções de compilação: `-Wall -Wextra -Werror -ansi -pedantic`. Para compilar o programa deve executar o seguinte comando:

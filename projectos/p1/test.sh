@@ -25,7 +25,7 @@ CC="gcc -Wall -Wextra -Werror -ansi -pedantic"
 
 ${CC} -o ${prog_name} $*
 rv_compile=$?
-#rv_compile=0
+
 if [ ${rv_compile} != 0 ]; then
     echo -e "${RED}ERROR: Compilation failed!${NC}"
     exit 1
@@ -33,7 +33,8 @@ else
     echo "Program successfully compiled..."
 fi
 
-for test_in in `ls -rS ${test_dir}/*.in`; do
+#for test_in in `ls -rS ${test_dir}/*.in`; do
+for test_in in `ls -tr ${test_dir}/*.in`; do
     echo "Test:" "${test_in}"
     test_out="${test_in%.in}.out"
     stamp="${RANDOM}${RANDOM}"

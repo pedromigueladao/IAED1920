@@ -1,0 +1,97 @@
+Novo produto 0.
+Nova encomenda 0.
+Nova encomenda 1.
+Novo produto 1.
+Novo produto 2.
+Custo da encomenda 1 0.
+Novo produto 3.
+Novo produto 4.
+Custo da encomenda 1 0.
+Produtos
+* nxzjvvyvkkhigyu-0004 3 25
+* mayjrezkj-0003 21 46
+* ezlka-0001 34 14
+* fkpppdmmqsvtukx-0000 37 71
+* oiljixy-0002 80 67
+Novo produto 5.
+Nova encomenda 2.
+Impossivel calcular custo da encomenda 4. Encomenda inexistente.
+Novo produto 6.
+Impossivel adicionar produto 4 a encomenda 2. Peso da encomenda excede o maximo de 200.
+Custo da encomenda 2 0.
+Novo produto 7.
+Novo produto 8.
+Nova encomenda 3.
+Impossivel remover stock do produto 9. Produto inexistente.
+Novo produto 9.
+Impossivel calcular custo da encomenda 5. Encomenda inexistente.
+Novo produto 10.
+Impossivel adicionar produto 1 a encomenda 1. Quantidade em stock insuficiente.
+Impossivel remover 31 unidades do produto 4 do stock. Quantidade insuficiente.
+Impossivel listar produto 11. Produto inexistente.
+Novo produto 11.
+Impossivel listar produto 12. Produto inexistente.
+Novo produto 12.
+Impossivel adicionar produto 20 ao stock. Produto inexistente.
+Impossivel adicionar produto 12 a encomenda 3. Quantidade em stock insuficiente.
+Impossivel remover produto 18 a encomenda 3. Produto inexistente.
+Impossivel alterar preco do produto 28. Produto inexistente.
+Maximo produto 2 0 8.
+Novo produto 13.
+Nova encomenda 4.
+Impossivel adicionar produto 14 a encomenda 4. Produto inexistente.
+Novo produto 14.
+Novo produto 15.
+Impossivel remover 1 unidades do produto 14 do stock. Quantidade insuficiente.
+Novo produto 16.
+Impossivel adicionar produto 1 a encomenda 1. Quantidade em stock insuficiente.
+Impossivel remover produto 12 a encomenda 12. Encomenda inexistente.
+Maximo produto 14 0 9.
+Novo produto 17.
+Nova encomenda 5.
+Novo produto 18.
+Impossivel adicionar produto 1 a encomenda 1. Quantidade em stock insuficiente.
+Impossivel adicionar produto 19 a encomenda 5. Produto inexistente.
+Produtos
+* nxzjvvyvkkhigyu-0004 3 12
+* nouitnfvjv-0010 7 87
+* mayjrezkj-0003 21 59
+* arzjvpwfje-0017 23 30
+* geezusu-0018 23 94
+* ezlka-0001 34 0
+* ybwyeymwzgvyjo-0009 36 1
+* fkpppdmmqsvtukx-0000 37 88
+* bmncsq-0012 38 78
+* otubkpfkfcgng-0014 42 0
+* rbskhczl-0013 50 1
+* kzozvht-0015 50 65
+* tedgbz-0005 52 99
+* jnbvtkze-0006 71 31
+* gduufr-0011 75 1
+* oiljixy-0002 80 10
+* somqyxmvv-0007 89 10
+* njlhmmjvzxabqhd-0008 94 9
+* rrvdttibnjolwzp-0016 94 57
+Novo produto 19.
+Impossivel alterar preco do produto 20. Produto inexistente.
+Produtos
+* nxzjvvyvkkhigyu-0004 3 12
+* nouitnfvjv-0010 7 87
+* mayjrezkj-0003 21 59
+* arzjvpwfje-0017 23 30
+* geezusu-0018 23 94
+* ezlka-0001 34 0
+* ybwyeymwzgvyjo-0009 36 1
+* fkpppdmmqsvtukx-0000 37 88
+* bmncsq-0012 38 78
+* otubkpfkfcgng-0014 42 0
+* rbskhczl-0013 50 1
+* kzozvht-0015 50 65
+* tedgbz-0005 52 99
+* jnbvtkze-0006 71 31
+* oxrvrcoszwyp-0019 72 26
+* gduufr-0011 75 1
+* oiljixy-0002 80 10
+* somqyxmvv-0007 89 10
+* njlhmmjvzxabqhd-0008 94 9
+* rrvdttibnjolwzp-0016 94 57
