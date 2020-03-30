@@ -4,6 +4,8 @@
 
 ## LOG alterações
 
+- 24Mar2020 - Clarifica comando `r`
+
 ## 1. Introdução
 
 O objectivo deste projeto é o desenvolvimento, em linguagem C, de um sistema de logística. A interacção com o programa deverá ocorrer através de um conjunto de linhas compostas por uma letra (comando) e um número de argumentos dependente do comando a executar. Os possíveis comandos são listados na Tabela seguinte e indicam as operações a executar.
@@ -85,7 +87,7 @@ Os comandos disponíveis são descritos de seguida. Cada comando indica uma dete
   * Formato de saída: NADA (excepto erro)
   * Erros:
     * `Impossivel remover stock do produto <idp>. Produto inexistente.` no caso de não existir nenhum produto criado com esse identificador
-    * `Impossivel remover <qtd> unidades do produto <idp> do stock. Quantidade insuficiente.` no caso de a quantidade de stock restante após a remoção ser negativa ou ser insuficiente para satisfazer as encomendas existentes
+    * `Impossivel remover <qtd> unidades do produto <idp> do stock. Quantidade insuficiente.` no caso de a quantidade de stock restante após a remoção ser negativa
 * __R__ - remove um produto de uma encomenda
   * Formato de entrada: `R ide:idp`
   * Formato de saída: NADA (excepto erro)
@@ -147,6 +149,10 @@ O programa deverá escrever no standard output as respostas aos comandos apresen
 ## 5. Exemplos (Input/Output)
 
 Ver os exemplos de input e respectivos output na pasta `testes_enunciado/`.
+
+Foram disponiblizados novos exemplos de input e respectivos output na pasta `testes_publicos/`. Para uma maior facilidade de debug os produtos criados com o comando `a` nestes exemplos têm como sufixo o seu `idp`, ie, a sua descrição é `string-aleatoria-idp` onde `idp` é o seu identificador. __NOTAR que as descrições dos produtos nos testes avaliados no Mooshak não terão este formato. Este é só para facilitar o debug durante o desenvolvimento.__
+
+Existem ainda outros 4 exemplos que pelo seu tamanho encontram-se disponíveis [aqui](https://fenix.tecnico.ulisboa.pt/downloadFile/845043405518428/testes-publicos.zip).
 
 ## 6. Compilação do Programa
 

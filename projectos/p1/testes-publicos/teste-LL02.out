@@ -1,0 +1,31 @@
+Novo produto 0.
+Nova encomenda 0.
+Impossivel adicionar produto 12 ao stock. Produto inexistente.
+Custo da encomenda 0 0.
+Impossivel listar encomenda 1. Encomenda inexistente.
+Novo produto 1.
+Custo da encomenda 0 0.
+Novo produto 2.
+Nova encomenda 1.
+Impossivel adicionar produto 8 ao stock. Produto inexistente.
+Impossivel adicionar produto 2 a encomenda 0. Peso da encomenda excede o maximo de 200.
+Impossivel listar maximo do produto 12. Produto inexistente.
+Novo produto 3.
+Impossivel adicionar produto 4 ao stock. Produto inexistente.
+Custo da encomenda 0 0.
+Impossivel alterar preco do produto 4. Produto inexistente.
+Impossivel listar maximo do produto 4. Produto inexistente.
+Novo produto 4.
+Nova encomenda 2.
+Custo da encomenda 0 0.
+Novo produto 5.
+Impossivel adicionar produto 5 a encomenda 2. Quantidade em stock insuficiente.
+Novo produto 6.
+Novo produto 7.
+Nova encomenda 3.
+Custo da encomenda 0 0.
+Novo produto 8.
+Nova encomenda 4.
+Impossivel adicionar produto 8 a encomenda 4. Quantidade em stock insuficiente.
+Novo produto 9.
+Encomenda 0
