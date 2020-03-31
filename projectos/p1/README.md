@@ -1,9 +1,10 @@
 # Enunciado do Projecto 1 - IAED 2019/20
 
-## Data de entrega: 7 de Abril de 2020, às 17h59m (17h59m)
+## Data de entrega: 7 de Abril de 2020, às 23h59m (23h59m)
 
 ## LOG alterações
 
+- 31Mar2020 - Mooshak aberto. Ver informações na Secção Projecto na página da cadeira. Relembramos que não podem usar a função `qsort` nativa do C.
 - 24Mar2020 - Clarifica comando `r`
 
 ## 1. Introdução
