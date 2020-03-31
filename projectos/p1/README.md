@@ -4,7 +4,7 @@
 
 ## LOG alterações
 
-- 31Mar2020 - Mooshak aberto. Ver informações na Secção Projecto na página da cadeira. Relembramos que não podem usar a função `qsort` nativa do C.
+- 31Mar2020 - Mooshak aberto. Ver informações na Secção Projecto na página da cadeira. Relembramos que não podem usar a função `qsort` nativa do C e que esta string não deverá aparecer no vosso código.
 - 24Mar2020 - Clarifica comando `r`
 
 ## 1. Introdução
