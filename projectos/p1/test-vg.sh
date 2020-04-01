@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# File:  test.sh
+# File:  test-vg.sh
 # Author:  mikolas
 # Created on:  Sun Feb 17 13:31:59 STD 2019
 # Copyright (C) 2019, Mikolas Janota
@@ -44,7 +44,7 @@ for test_in in `ls -tr ${test_dir}/*.in`; do
     test_out="${test_in%.in}.out"
     stamp="${RANDOM}${RANDOM}"
     student_out=/tmp/in_${stamp}
-    time valgrind ./${prog_name} <${test_in} >${student_out}
+    valgrind --error-exitcode=100 --quiet ./${prog_name} <${test_in} >${student_out}
     rv_student=$?
 
     if [ ! -f "${student_out}" ]; then

@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# File:  test.sh
+# File:  test-fs.sh
 # Author:  mikolas
 # Created on:  Sun Feb 17 13:31:59 STD 2019
 # Copyright (C) 2019, Mikolas Janota
