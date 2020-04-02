@@ -78,4 +78,8 @@ Podem também ignorar o output do projecto por forma a ver só os erros da segui
 
 Para analisar o projecto usando esta ferramenta deverá executar:
 
-    $ cppcheck proj1.c
+    $ cppcheck cppcheck --enable=all --language=c --std=c99 proj1.c
+
+ou, para mais informações:
+
+    $ cppcheck cppcheck --enable=all --language=c --std=c99 -v proj1.c
