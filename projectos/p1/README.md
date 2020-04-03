@@ -206,7 +206,7 @@ A entrega do projecto deverá respeitar o procedimento seguinte:
 
 * O sistema não permite submissões com menos de 10 minutos de intervalo para o mesmo grupo. Tenha especial atenção a este facto na altura da submissão final. Exemplos de casos de teste serão oportunamente fornecidos.
 
-* Data limite de entrega do projecto: __7 de Abril de 2020, às 17h59m__. Até à data limite poderá efectuar o número de submissões que desejar, sendo utilizada para efeitos de avaliação a última submissão efectuada. Deverá portanto verificar cuidadosamente que a última submissão corresponde à versão do projecto que pretende que seja avaliada. Não existirão excepções a esta regra.
+* Data limite de entrega do projecto: __7 de Abril de 2020, às 23h59m__. Até à data limite poderá efectuar o número de submissões que desejar, sendo utilizada para efeitos de avaliação a última submissão efectuada. Deverá portanto verificar cuidadosamente que a última submissão corresponde à versão do projecto que pretende que seja avaliada. Não existirão excepções a esta regra.
 
 ## 9. Avaliação do Projecto
 
