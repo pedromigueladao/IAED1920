@@ -11,54 +11,68 @@ if [[ $# != 1 ]] ; then
     exit 1
 fi
 
+RED='\033[0;31m'
+GREEN='\033[1;32m'
+YELLOW='\033[1;33m'
+NC='\033[0m'
+
 prog_name="${1}"
-cfile="${1}".c
-DIFF="diff --ignore-space-change --ignore-blank-lines"
-CC="gcc -ansi -Wall -Wextra -pedantic"
+cfile="${prog_name}.c"
+DIFF="diff"
+CC="gcc -ansi -Wall -Werror -Wextra -pedantic"
+CC="${CC} -fsanitize=address"
+diff_opts="--ignore-space-change --ignore-blank-lines"
+
+# use color for diff, if supported
+if diff --help | grep -q -w -e '--color'
+then
+    diff_opts="${diff_opts} --color"
+fi
 
 if [ ! -f "${cfile}" ]; then
-    echo "ERROR: file ${cfile} not found!"
+    echo "${RED}ERROR: file ${cfile} not found!${NC}"
     exit 1
 fi
 
 ${CC} -o ${prog_name} ${cfile}
 rv_compile=$?
 if [ ${rv_compile} != 0 ]; then
-    echo "ERROR: Compilation failed!"
+    echo -e "${RED}ERROR: Compilation failed!${NC}"
     exit 1
 else
     echo "Program successfully compiled..."
 fi
 
-for test_in in tests/${1}_*.in ; do
+for test_in in tests/${prog_name}_*.in ; do
     echo "Test:" "${test_in}"
     test_out="${test_in%.in}.out"
     stamp="${RANDOM}${RANDOM}"
     student_out=/tmp/in_${stamp}
-    ./${prog_name} <${test_in} | sed -e 's/\r$//' >${student_out}
+    # ./${prog_name} <${test_in} | sed -e 's/\r$//' >${student_out}
+    ./${prog_name} <${test_in} >${student_out}
     rv_student=$?
 
     if [ ! -f "${student_out}" ]; then
-        echo "ERROR: The output of the exercise was not created (file ${student_out})!"
+        echo -e "${RED}ERROR: The output of the exercise was not created (file ${student_out})!${NC}"
         exit 1
     fi
 
     if [ ${rv_student} != 0 ]; then
-        echo "ERROR: Program did not return 0!"
+        echo -e "${RED}ERROR: Program did not return 0!\n${NC}"
         rm -f ${student_out}
         exit 1
     else
         echo "Program successfully ran..."
     fi
 
-    ${DIFF} ${student_out} ${test_out}
+    ${DIFF} ${diff_opts} ${student_out} ${test_out}
     rv_diff=$?
     rm -f ${student_out}
 
     if [ ${rv_diff} == 0 ]; then
-        echo "Test ${test_in} PASSED!"
+        echo -e "${GREEN}Test ${test_in} PASSED!\n${NC}"
     else
-        echo "Test ${test_in} FAILURE!"
+        echo -e "${RED}Test ${test_in} FAILURE!\n${NC}"
         exit 1
     fi
 done
