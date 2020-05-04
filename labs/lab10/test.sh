@@ -35,7 +35,7 @@ for test_in in tests/${1}_*.in ; do
     test_out="${test_in%.in}.out"
     stamp="${RANDOM}${RANDOM}"
     student_out=/tmp/in_${stamp}
-    ./${prog_name} <${test_in} | sed -e 's/\r$//' >${student_out}
+    ./${prog_name} <${test_in} >${student_out}
     rv_student=$?
 
     if [ ! -f "${student_out}" ]; then
