@@ -6,7 +6,7 @@
 # Copyright (C) 2019, Mikolas Janota
 #
 failures=0
-for e in ex01 ex02; do
+for e in ex01 ex02 ex03; do
     ./test.sh ${e}
     let failures="$?+${failures}"
 done

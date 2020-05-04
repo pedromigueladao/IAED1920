@@ -46,3 +46,13 @@ e deverá ser manipulada pelas seguintes funções:
     void  free_list(list* l);        /* liberta toda a memoria associada a lista */
     void  add_last(list* l, char c); /* adiciona o char c como o ultimo elemento da lista */
     int   is_paly(const list * ls);  /* calcula se a dada lista e um palindromo */
+
+## ex03
+
+Implemente uma calculadora para Notação polonesa inversa (https://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_polonesa_inversa),
+onde  o operador segue os operandos. Por exemplo, `(3+4)` é `3 4 +`; `(3+4) * 5` é `3 4 + 5 *`.
+A expressão é dada no standard input como uma sequência de palavras. O programa deverá imprimir o resultado numa linha separada. 
+
+ 
+**Dica:** Os resultados intermediarios podem ser guardados numa pilha.
+**Dica:** A função `atoi` pode ser usada para converter uma string no `int`.
