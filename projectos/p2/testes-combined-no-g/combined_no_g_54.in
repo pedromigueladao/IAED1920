@@ -1,0 +1,20 @@
+A Boksburg
+P Boksburg
+A Begusarai
+r 3SB
+A Braganca
+P Begusarai
+a ZOC:Boksburg:Begusarai:0:9
+s ZOC:7:7
+a ZOC:BISSAU:SANJOSE:7:1
+r ZOC
+a Xta:Braganca:Boksburg:5:0
+a esC:Boksburg:Begusarai:2:8
+l
+a ZuV:Boksburg:Begusarai:2:4
+P Boksburg
+r Xta
+P Begusarai
+p ZuV
+a ZuV:Bayamo:Bintulu:6:3
+x

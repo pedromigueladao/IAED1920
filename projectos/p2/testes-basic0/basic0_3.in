@@ -1,0 +1,21 @@
+P Bolzano
+p cUr
+A MOSCOW
+a dZd:Bolu:MOSCOW:5:9
+A Ballarat
+P Bolzano
+p cUr
+p dZd
+A Bellary
+a Llb:Baranagar:MOSCOW:5:0
+P Bellary
+a 9if:Bellary:Bolzano:10:3
+p 9if
+A KIGALI
+a en6:Ballarat:Bellary:3:8
+a AYu:Ballarat:Bellary:3:4
+P Bolzano
+P KIGALI
+a 1rj:Bellary:KIGALI:2:6
+P Bellary
+x

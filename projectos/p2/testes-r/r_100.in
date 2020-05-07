@@ -1,0 +1,19 @@
+p K6B
+A Barrackpur
+a sc9:Bern:Barrackpur:6:2
+r sc9
+r K6B
+A Bagalkot
+A Bafoussam
+a eyw:Howrah:ASUNCION:1:5
+p eyw
+r AcX
+A ROSEAU
+A Bhimavaram
+A Bhopal
+a y4y:Bhimavaram:Bafoussam:7:3
+a uDX:Bhopal:Bangaon:7:1
+A Bratsk
+a neS:Bhopal:ROSEAU:10:3
+a HO0:Bafoussam:ROSEAU:8:10
+x

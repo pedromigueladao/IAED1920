@@ -1,0 +1,20 @@
+P Beipiao
+a 8l5:Beipiao:Betul:0:1
+a 1Ly:Beipiao:BaniSuwayf:4:8
+P Beipiao
+A TALLINN
+s PBr:0:9
+A Belgaum
+a fcv:Belgaum:TALLINN:3:10
+r cZY
+l
+s fcv:8:6
+P Beipiao
+r Oq4
+r 1Ly
+p 8l5
+A Bhavnagar
+a Ny1:Bhavnagar:Belgaum:5:0
+p 8l5
+P Bole
+x

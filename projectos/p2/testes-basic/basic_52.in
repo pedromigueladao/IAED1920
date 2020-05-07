@@ -1,0 +1,17 @@
+p 8b4
+P Barnaul
+A Bushehr
+P Bushehr
+p 8b4
+A Banha
+A Baltimore
+a GkA:Baltimore:Banha:3:4
+P Bushehr
+a jWH:Bushehr:Baltimore:5:7
+A CAIRO
+a 0Cj:Bushehr:CAIRO:8:0
+a jWH:RIGA:Braunschweig:3:4
+a Fy4:ATHENS:Bushehr:7:0
+l
+a Mix:Banha:CAIRO:5:7
+x

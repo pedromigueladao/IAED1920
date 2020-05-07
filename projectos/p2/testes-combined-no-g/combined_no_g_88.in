@@ -1,0 +1,17 @@
+A BANGUI
+r 117
+l
+a zrB:Bukan:BANGUI:7:4
+s 1Oy:8:0
+A SANTIAGO
+A Baghdad
+a Tff:Baghdad:SANTIAGO:4:3
+A Boksburg
+p zrB
+P SANTIAGO
+A SANTIAGO
+p Tff
+P BANGUI
+s Tff:8:6
+l
+x

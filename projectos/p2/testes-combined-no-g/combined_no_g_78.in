@@ -1,0 +1,21 @@
+P Baidoa
+p z8I
+l
+r Bs7
+P Bashiqa
+A Balakovo
+A Bundi
+A KUWAITCITY
+a eIn:Bashiqa:Bundi:7:10
+l
+P Bashiqa
+a cpq:Balakovo:KUWAITCITY:8:6
+a D50:KUWAITCITY:Bologna:3:2
+l
+P Bundi
+a iLT:KUWAITCITY:Balakovo:9:6
+A BUENOSAIRES
+P Bashiqa
+A NICOSIA
+a SmP:Bundi:Belfast:1:0
+x

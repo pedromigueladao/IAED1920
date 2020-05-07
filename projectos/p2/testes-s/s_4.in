@@ -1,0 +1,18 @@
+A Brasov
+A SOFIA
+a xuc:Blumenau:Bansberia:3:3
+p xuc
+A Burlington
+p xuc
+a jQ7:Burlington:SOFIA:4:7
+p xuc
+l
+s xuc:1:10
+p xuc
+a m5G:Brasov:SOFIA:0:7
+a 6hQ:SOFIA:Burlington:5:0
+a dLB:Burlington:SOFIA:4:10
+p m5G
+s oes:4:4
+A MAJURO
+x

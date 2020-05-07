@@ -1,0 +1,20 @@
+P SANTODOMINGO
+p PSP
+A BanjaLuka
+l
+p w2J
+l
+P BanjaLuka
+A Bozhou
+a PSP:BandarAbbas:Bangalore:7:0
+s PSP:2:5
+p tPz
+p PSP
+a 1sA:SANTODOMINGO:Bozhou:1:10
+p 1sA
+a XQL:Bozhou:SANTODOMINGO:5:2
+p XQL
+s 1sA:4:10
+a F0H:SANTODOMINGO:BanjaLuka:2:5
+a YMy:SANTODOMINGO:BanjaLuka:10:10
+x

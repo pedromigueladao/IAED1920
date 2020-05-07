@@ -1,0 +1,18 @@
+a cRh:PORT-AU-PRINCE:THIMPHU:4:0
+A LJUBLJANA
+l
+a RGS:LJUBLJANA:Barcarena:1:9
+A LJUBLJANA
+s cRh:7:10
+a RGS:ASMARA:Beawar:1:0
+s jCX:9:0
+A Baybay
+l
+P LJUBLJANA
+r RGS
+s cRh:1:4
+A Bikaner
+l
+a TxP:LJUBLJANA:Baybay:6:10
+p TxP
+x

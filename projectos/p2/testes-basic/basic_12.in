@@ -1,0 +1,18 @@
+p tbA
+A Barueri
+P VELLA
+a woC:LJUBLJANA:Barueri:1:9
+p tbA
+A BatangasCity
+p woC
+l
+A BilaTserkva
+P BilaTserkva
+a 6bg:BilaTserkva:BatangasCity:9:3
+a XNb:BilaTserkva:Barueri:0:4
+P Bremerhaven
+A BatuPahat
+p RIA
+A Barueri
+p 6bg
+x

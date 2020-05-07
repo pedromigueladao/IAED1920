@@ -1,0 +1,19 @@
+p ygp
+s ygp:1:8
+a ygp:Bangalore:Bengbu:0:10
+a DR7:KUALALUMPUR:HELSINKI:4:1
+A Basra
+P DILI
+A BalnearioCamboriu
+a DcD:BalnearioCamboriu:Basra:6:9
+P Basra
+r DcD
+A Budapest
+a DcK:Budapest:Basra:10:9
+a aET:KUALALUMPUR:Basra:0:5
+a 3Fl:Basra:BalnearioCamboriu:7:8
+P Bengkulu
+A Bielefeld
+a 8js:KUALALUMPUR:Bielefeld:4:3
+s Dsv:0:4
+x

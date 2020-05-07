@@ -1,0 +1,18 @@
+P Berlin
+r nvQ
+A Bobo-Dioulasso
+A Brusque
+p 4Pf
+l
+P Brusque
+A Birgunj
+A SANJOSE
+p Ep5
+A NOUAKCHOTT
+a E1s:SANJOSE:Birgunj:6:8
+A BEIRUT
+r Ep5
+A VICTORIA
+a UTS:Birgunj:Bobo-Dioulasso:9:5
+a 9j7:NOUAKCHOTT:Bobo-Dioulasso:8:10
+x

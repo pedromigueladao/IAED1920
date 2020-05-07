@@ -1,0 +1,17 @@
+l
+a j7O:Belfast:Baghlan:2:1
+P Baghlan
+p j7O
+A Bologna
+A Bayamon
+a qmU:PORTO-NOVO:Bayamon:10:1
+a Wss:Baghlan:Bologna:10:4
+p Wss
+A Benghazi
+a TjQ:Baghlan:Benghazi:3:5
+p Wss
+A Bamako
+a XSb:Benghazi:Bologna:6:1
+p Wss
+a 6br:Bayamon:Benghazi:2:2
+x

@@ -1,0 +1,20 @@
+A Bolu
+P BahiaBlanca
+A Bolton
+A MAPUTO
+A Bangalore
+A FREETOWN
+a 2gf:Bangalore:MAPUTO:4:1
+p 2gf
+l
+P Boston
+p BDc
+a z3j:FREETOWN:Bolton:8:0
+A Budapest
+a DcK:Bangalore:Bolton:10:9
+a TJe:Bolu:Bangalore:1:0
+a lht:Bolu:Bangalore:7:8
+p z3j
+A Bielefeld
+A Bolu
+x

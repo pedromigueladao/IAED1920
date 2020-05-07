@@ -1,0 +1,20 @@
+P Burnaby
+P Bejaia
+a WtB:Blackburn:BaiaMare:0:8
+A BUCHAREST
+A Bucheon
+P Bejaia
+a Hid:Bucheon:BUCHAREST:8:2
+a 60o:BUCHAREST:Bejaia:5:10
+a dRY:BUCHAREST:Bejaia:6:0
+p Rrg
+a WtB:Bucheon:Bhiwani:10:7
+p 60o
+a gyt:Bejaia:BUCHAREST:1:7
+p ASH
+A Bitung
+l
+a CnQ:Bucheon:BUCHAREST:7:1
+a xPG:Bucheon:BUCHAREST:6:5
+a CnQ:PARIS:BEIRUT:7:0
+x

@@ -1,0 +1,16 @@
+p sg7
+A BEIRUT
+r mCs
+g
+g
+A BANJUL
+p SOd
+A BeniMellal
+s Y69:5:0
+p SOd
+a m5a:BEIRUT:BANJUL:7:9
+a nkA:BEIRUT:BeniMellal:5:10
+A Bansberia
+g
+a N82:BANJUL:Bansberia:0:9
+x

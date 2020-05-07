@@ -1,0 +1,20 @@
+A LUSAKA
+l
+A Burewala
+A Barcelona
+a rwX:Burewala:LUSAKA:1:10
+P LUSAKA
+A BUENOSAIRES
+a RuO:Barcelona:BUENOSAIRES:4:0
+P Burewala
+a sLg:BUENOSAIRES:Beau-BassinRose-Hill:1:5
+A Bursa
+A PRISTINA
+A HAVANA
+p rwX
+A Bochum
+a 0qE:PRISTINA:Bursa:6:3
+a EMu:HAVANA:Bochum:4:9
+a mxe:LUSAKA:Burewala:4:3
+p RuO
+x

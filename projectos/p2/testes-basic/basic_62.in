@@ -1,0 +1,19 @@
+p lAG
+P Bhopal
+A Bobo-Dioulasso
+A Brusque
+A Baran
+l
+a 0Qs:BatonRouge:Baran:3:0
+A SANJOSE
+a 5d7:SANJOSE:Brusque:7:4
+a 1sY:Baran:SANJOSE:6:8
+A BEIRUT
+p Hef
+P VICTORIA
+a UTS:Baran:Bobo-Dioulasso:9:5
+a 9j7:BEIRUT:Bobo-Dioulasso:8:10
+A BaiaMare
+P BEIRUT
+A Boksburg
+x

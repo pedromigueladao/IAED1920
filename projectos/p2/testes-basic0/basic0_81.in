@@ -1,0 +1,20 @@
+P Rajasthan
+a CX9:Rajasthan:Basel:6:9
+p CX9
+P Rajasthan
+P Rajasthan
+A DJIBOUTI(CITY)
+A MOSCOW
+a SpZ:DJIBOUTI(CITY):Rajasthan:0:2
+a p4X:MOSCOW:Rajasthan:4:5
+A SAINTJOHN-S
+A Bari
+P DJIBOUTI(CITY)
+a LtJ:SAINTJOHN-S:DJIBOUTI(CITY):0:1
+A Burgos
+P Burgos
+P Bari
+A PORTLOUIS
+p CX9
+P Bari
+x

@@ -1,0 +1,20 @@
+p hei
+A Bijapur
+A Baranovichi
+s hei:6:0
+s hei:10:10
+P Bijapur
+A MADRID
+A Belgrade
+A Bijapur
+a adm:Bijapur:MADRID:8:8
+a 5Sp:Baranovichi:MADRID:8:1
+a yb8:MADRID:Belgrade:7:6
+p kNQ
+a onc:MADRID:Baranovichi:4:6
+P MADRID
+l
+l
+a ZqZ:Belgrade:Bijapur:5:1
+l
+x

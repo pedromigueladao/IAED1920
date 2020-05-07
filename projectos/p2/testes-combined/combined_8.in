@@ -1,0 +1,19 @@
+s YDr:10:0
+p 8Vl
+A PORTVILA
+g
+r 8Vl
+a exV:Basra:PORTVILA:6:7
+P Bagalkot
+l
+P PALIKIR
+s exV:1:9
+A Belgrade
+A Bangalore
+s exV:10:4
+p exV
+a 7h5:PORTVILA:Bangalore:6:1
+r 7h5
+A BandarLampung
+l
+x

@@ -1,0 +1,17 @@
+A Brasilia
+A Bacau
+P Brasilia
+p t90
+a t90:CANBERRA:Bristol:6:10
+A Bacoor
+P Buenaventura
+a ioe:Bacoor:Bacau:1:8
+a aQc:Bacau:Bacoor:3:10
+p gre
+a KCK:Bacoor:Bacau:7:9
+p t90
+a xiP:Bacoor:Brasilia:3:1
+A BentoGoncalves
+P LJUBLJANA
+p aQc
+x

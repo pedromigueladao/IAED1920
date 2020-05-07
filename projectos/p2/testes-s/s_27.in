@@ -1,0 +1,17 @@
+p 9HM
+A LUSAKA
+l
+A Barrackpur
+P Barrackpur
+p 9HM
+a w1e:Botshabelo:Barrackpur:4:5
+P LUSAKA
+A MANAGUA
+P MANAGUA
+l
+a tld:LUSAKA:MANAGUA:2:7
+P Barrackpur
+A Bolton
+A KINGSTON
+a scO:Bolton:Barrackpur:1:5
+x

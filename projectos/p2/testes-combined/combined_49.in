@@ -1,0 +1,19 @@
+l
+A Bidar
+p Qhl
+g
+g
+a OZr:Bansberia:Bishoftu:7:5
+A TIRANA
+A TEGUCIGALPA
+g
+a Bgp:TEGUCIGALPA:TIRANA:0:4
+P TIRANA
+A TEGUCIGALPA
+r Bgp
+s OZr:10:2
+s OZr:10:7
+a EWl:Bidar:BAKU:2:4
+a uwd:TIRANA:TEGUCIGALPA:0:5
+a Kzn:TEGUCIGALPA:Bidar:8:5
+x

@@ -1,0 +1,21 @@
+A Brasilia
+A Bacau
+l
+A OSLO
+a t90:OSLO:Bacau:10:6
+A Bacau
+a zEn:OSLO:Bacau:0:10
+A NAYPYITAW
+a oef:NAYPYITAW:Bacau:8:8
+A Bacabal
+a t90:Barisal:Bolton:1:6
+p zEn
+l
+a U7d:NAYPYITAW:Bacabal:8:4
+P Bacabal
+A Bazhou
+a t90:Beawar:BentoGoncalves:7:8
+a 8tl:Bazhou:Butwal:6:9
+A Bolton
+A MASERU
+x

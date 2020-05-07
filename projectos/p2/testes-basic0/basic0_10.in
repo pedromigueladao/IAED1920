@@ -1,0 +1,19 @@
+p Oog
+P Buzau
+A BandarAbbas
+P BandarAbbas
+a Q9z:Bankura:Buzau:5:2
+p HGv
+A Brownsville
+a mTm:Brownsville:BandarAbbas:10:8
+p Q9z
+P Buzau
+A Batna
+A BouSaada
+a dF2:BandarAbbas:Bhalwal:3:6
+a q1a:BouSaada:BandarAbbas:2:8
+p Oog
+a q1a:BLOEMFONTEIN:Batman:8:4
+a qac:Buzau:Ballia:1:8
+a J1j:Bechar:Buzau:7:4
+x

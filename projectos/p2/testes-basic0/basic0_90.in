@@ -1,0 +1,19 @@
+P MALE
+p gGU
+p gGU
+A Bogor
+A MALE
+P MALE
+P MALE
+A Barrackpur
+P MALE
+A Braga
+a Y7X:Barrackpur:Bogor:2:9
+a Y7X:Baleshwar:Bukan:6:4
+a o3j:Barrackpur:Braga:7:6
+A SOUTHTARAWA
+A Braga
+A Bonn
+a 0zG:Barrackpur:SOUTHTARAWA:7:6
+a jPq:Bonn:Braga:7:10
+x

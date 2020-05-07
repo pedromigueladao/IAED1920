@@ -1,0 +1,20 @@
+P MONTEVIDEO
+A RIGA
+p 9lC
+A Bandar-eMahshahr
+a UJc:RIGA:Bandar-eMahshahr:5:0
+p 9lC
+P MONTEVIDEO
+a e51:MONTEVIDEO:RIGA:9:1
+P MONTEVIDEO
+a oLU:MONTEVIDEO:Bandar-eMahshahr:8:4
+a B6h:ANTANANARIVO:Bandar-eMahshahr:5:7
+A LUXEMBOURG
+P Bandar-eMahshahr
+a yhw:LUXEMBOURG:RIGA:0:5
+a Nxs:MONTEVIDEO:Bandar-eMahshahr:1:5
+P MONTEVIDEO
+a SBy:RIGA:LUXEMBOURG:0:3
+a JwN:Bandar-eMahshahr:LUXEMBOURG:7:2
+A OSLO
+x

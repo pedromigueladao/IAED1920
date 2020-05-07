@@ -1,0 +1,19 @@
+P Bolzano
+a cUr:Bolzano:VILNIUS:8:10
+p r1L
+A Bolzano
+P Bolzano
+p cUr
+a Nvb:Bellary:Bolzano:9:2
+A Baranagar
+A Bally-Jagachha
+P CAIRO
+a 9if:Baranagar:Bolzano:10:3
+p 9if
+a iWt:Bally-Jagachha:Baranagar:7:1
+A Bhiwani
+P Bhiwani
+a AYu:Bally-Jagachha:Bhiwani:3:4
+l
+A HANOI
+x

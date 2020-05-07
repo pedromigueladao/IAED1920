@@ -1,0 +1,16 @@
+p ehd
+p IGI
+P Blackpool
+P Blackpool
+A SUVA
+p IGI
+A Blackpool
+p IGI
+A Brussels
+a qL8:SUVA:Brussels:3:2
+a TLU:SUVA:Blackpool:10:7
+a 5T2:Blackpool:Brussels:2:4
+a HVF:Brussels:Blackpool:6:7
+P Brussels
+p TLU
+x

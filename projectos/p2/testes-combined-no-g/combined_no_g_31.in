@@ -1,0 +1,19 @@
+p v2y
+l
+s v2y:4:7
+A JAKARTA
+l
+A Beed
+P JAKARTA
+r v2y
+p lZA
+p aCz
+p aCz
+a aCz:Bamako:MAJURO:3:3
+a jYX:Beed:Bayamo:9:9
+P JAKARTA
+A Baybay
+l
+r jYX
+s oJK:2:3
+x

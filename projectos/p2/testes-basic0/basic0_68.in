@@ -1,0 +1,21 @@
+a QNy:ALGIERS:Braga:0:1
+A Beau-BassinRose-Hill
+A Berhampur
+a UTx:Beau-BassinRose-Hill:Berhampur:2:0
+A Barnala
+P Barnala
+P Beau-BassinRose-Hill
+A LILONGWE
+a sOg:LILONGWE:Braga:3:7
+p UTx
+p sOg
+p QNy
+a onn:Bamenda:Beau-BassinRose-Hill:0:5
+A Barnala
+P PARIS
+a onn:Bonn:Brest:0:7
+a QNy:Burgas:PHNOMPENH:8:7
+A Barnala
+p onn
+P Braga
+x

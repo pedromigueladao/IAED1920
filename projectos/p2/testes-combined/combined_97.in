@@ -1,0 +1,20 @@
+s 6xL:2:7
+A Breda
+p yzv
+A TEHRAN
+A Bursa
+l
+a q9P:TEHRAN:Breda:10:0
+g
+a CyB:Bursa:Breda:6:3
+s CyB:7:10
+P TEHRAN
+A Bhadreswar
+r kBe
+A Bellevue
+l
+a MSi:Bhadreswar:TEHRAN:7:7
+l
+A Borujerd
+a EP5:Bellevue:Breda:3:4
+x

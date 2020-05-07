@@ -1,0 +1,20 @@
+p WeX
+P SANTODOMINGO
+a PSP:Bakersfield:SANTODOMINGO:1:5
+P SANTODOMINGO
+p PSP
+A Bozhou
+p PSP
+A Bangalore
+a 9lv:Bangalore:Bozhou:10:0
+a iuF:Bozhou:Bangalore:3:0
+a 9lv:MBABANE:Bathinda:10:10
+l
+A Bahawalpur
+l
+a 9lv:Beersheba:Brest:9:1
+A Bangalore
+P SANTODOMINGO
+a oHj:Bozhou:Bangalore:6:9
+a aCz:Bahawalpur:Bangalore:9:5
+x

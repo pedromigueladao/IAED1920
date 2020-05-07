@@ -1,0 +1,19 @@
+A LUXEMBOURG
+p 1CF
+s 1CF:4:9
+p j3E
+A Baraki
+A Bandar-eMahshahr
+p 1CF
+A LUXEMBOURG
+P LUXEMBOURG
+a 0T0:Bandar-eMahshahr:Baraki:4:5
+A Bruges
+p 0T0
+a jL0:LUXEMBOURG:Baraki:0:2
+a NTC:Bandar-eMahshahr:Baraki:9:5
+l
+l
+s 1CF:5:9
+A Bryansk
+x

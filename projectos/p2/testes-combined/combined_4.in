@@ -1,0 +1,20 @@
+A Brasov
+A SOFIA
+p xuc
+p qeY
+a Q7x:SOFIA:BytomCAPITAL:3:6
+A Burlington
+p jCZ
+p Q7x
+g
+P SOFIA
+a 6CZ:Burlington:Brasov:3:1
+P SOFIA
+A BarraMansa
+A Betim
+l
+A Bukan
+g
+a vVb:Brasov:Bukan:5:0
+s xuc:9:6
+x

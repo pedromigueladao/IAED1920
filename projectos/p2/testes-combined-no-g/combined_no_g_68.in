@@ -1,0 +1,20 @@
+P SUCRE
+A Baoji
+A Beau-BassinRose-Hill
+A Berhampur
+a bcH:Beau-BassinRose-Hill:Baoji:1:7
+s bcH:2:3
+A LILONGWE
+a sOg:LILONGWE:SUCRE:3:7
+P Beau-BassinRose-Hill
+P LILONGWE
+P Besancon
+P Baoji
+a c6u:SUCRE:Baoji:4:0
+a yBr:Berhampur:LILONGWE:4:0
+l
+p bcH
+s yBr:8:7
+a H6H:Berhampur:LILONGWE:6:1
+l
+x

@@ -1,0 +1,19 @@
+P SOUTHTARAWA
+p 1w0
+p 1w0
+A SOUTHTARAWA
+A Bellary
+A ASHGABAT
+A Bacabal
+A HONIARA
+P ASHGABAT
+P Bacabal
+p 1w0
+P Bacabal
+a eXR:HONIARA:Bacabal:1:1
+a 6y6:Bellary:HONIARA:10:9
+A Burnaby
+p sBO
+a MW8:ASHGABAT:HONIARA:4:0
+a uLd:SOUTHTARAWA:Burnaby:2:0
+x

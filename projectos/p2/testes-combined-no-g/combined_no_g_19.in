@@ -1,0 +1,18 @@
+r VAM
+p Gf1
+P Bhatpara
+p Gf1
+s Gf1:4:3
+s rN7:9:10
+P Bhatpara
+A BatuPahat
+P BatuPahat
+a LHK:Bhatpara:Beppu:8:9
+l
+A Burao
+P Balkesir
+a APd:Burao:Barreiras:2:5
+r APd
+s Gf1:1:0
+a BV1:Burao:BatuPahat:0:4
+x

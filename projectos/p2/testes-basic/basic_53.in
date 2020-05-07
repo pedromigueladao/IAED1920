@@ -1,0 +1,19 @@
+p i6z
+l
+a Hbs:Bielefeld:Beed:7:9
+A BordjBouArreridj
+p Hbs
+A TRIPOLI
+p Hbs
+A Burgos
+a 4a8:BordjBouArreridj:Burgos:3:10
+l
+A Baltimore
+a MH0:Burgos:Bielefeld:4:4
+A BeloHorizonte
+a vGe:TRIPOLI:BeloHorizonte:1:2
+a sV5:Burgos:TRIPOLI:0:4
+a T9N:Baltimore:BordjBouArreridj:8:8
+A Bettiah
+A TOKYO
+x

@@ -1,0 +1,19 @@
+A BatonRouge
+A PARAMARIBO
+A Biratnagar
+a 9bY:Biratnagar:BatonRouge:7:10
+A MASERU
+P Biratnagar
+a D9X:BatonRouge:PARAMARIBO:7:7
+A BeniMellal
+a WqU:BatonRouge:MASERU:10:4
+A Burewala
+A Baranovichi
+A Bournemouth
+A Bucaramanga
+A Botad
+p WqU
+a gho:Baranovichi:BatonRouge:2:6
+p OZv
+a uvl:BeniMellal:Biratnagar:6:10
+x

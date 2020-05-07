@@ -1,0 +1,18 @@
+p lpA
+p QSd
+P BERN
+A Bagalkot
+A MANILA
+A LUXEMBOURG
+p 2ue
+p QSd
+P MANILA
+a iSq:LUXEMBOURG:MANILA:3:7
+A BokaroSteelCity
+p iSq
+a 5sm:LUXEMBOURG:BokaroSteelCity:2:4
+A BhalswaJahangirPur
+P LUXEMBOURG
+a rlX:Bagalkot:BokaroSteelCity:2:0
+a V9b:BokaroSteelCity:Bagalkot:9:9
+x

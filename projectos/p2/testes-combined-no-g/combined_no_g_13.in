@@ -1,0 +1,21 @@
+p X03
+A Betul
+A VICTORIA
+A Bataysk
+a Z5q:VICTORIA:Betul:10:6
+s Z5q:10:3
+s X03:5:2
+A PORTOF
+A Bratsk
+P SEOUL
+a AN6:PORTOF:Bratsk:0:1
+a SEF:Betul:VICTORIA:3:10
+a dVX:PORTOF:Betul:4:5
+a Zrn:Betul:VICTORIA:8:2
+l
+a LuI:PORTOF:Betul:9:0
+a txe:Betul:PORTOF:10:1
+A Bacau
+P Buxar
+a 5se:Bratsk:VICTORIA:1:9
+x

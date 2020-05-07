@@ -1,0 +1,20 @@
+P Bratislava
+P Bratislava
+A Brighton
+A COLOMBO
+a KgE:COLOMBO:Bratislava:4:4
+a rKH:Bratislava:Brighton:0:7
+a 0uQ:COLOMBO:Brighton:1:4
+P COLOMBO
+A BocaChica
+A Bergen
+A Buraidah
+P Brighton
+p 0uQ
+A Berezniki
+a ovo:Bratislava:Brighton:1:1
+A VIENNA
+a ndE:COLOMBO:Burnaby:9:5
+A Bogra
+p q06
+x

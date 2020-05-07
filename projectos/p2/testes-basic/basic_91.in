@@ -1,0 +1,20 @@
+A Bamenda
+p q6D
+A Begusarai
+l
+P Begusarai
+A ULAANBAATAR
+a yFm:ULAANBAATAR:Begusarai:4:0
+a DKX:Bamenda:Begusarai:1:8
+p DKX
+l
+a IEU:Bamenda:ULAANBAATAR:4:3
+p DKX
+a tUT:Begusarai:ULAANBAATAR:6:0
+P Begusarai
+a gTL:Begusarai:Bamenda:10:8
+a VIu:Begusarai:Bamenda:3:1
+A ULAANBAATAR
+a jI2:Bamenda:Begusarai:2:5
+a 17C:Begusarai:Bamenda:1:1
+x

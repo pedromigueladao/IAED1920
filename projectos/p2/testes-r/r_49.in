@@ -1,0 +1,19 @@
+r eOn
+p Qhl
+A BELMOPAN
+P BELMOPAN
+p Qhl
+A Bishoftu
+A TIRANA
+A TEGUCIGALPA
+l
+a gp0:TIRANA:TEGUCIGALPA:0:4
+P TIRANA
+A BuonMaThuot
+P Bradford
+r Qhl
+r gp0
+P TEGUCIGALPA
+a hxj:TEGUCIGALPA:Bishoftu:4:3
+a uwd:TIRANA:BuonMaThuot:0:5
+x

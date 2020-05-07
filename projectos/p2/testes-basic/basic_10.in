@@ -1,0 +1,14 @@
+p Oog
+l
+P QUITO
+a Q9z:QUITO:BandarAbbas:5:2
+P QUITO
+A Brownsville
+l
+A QUITO
+p Q9z
+A BahiaBlanca
+a Pbd:QUITO:Brownsville:7:3
+A TALLINN
+a 1ai:Brownsville:BahiaBlanca:8:9
+x

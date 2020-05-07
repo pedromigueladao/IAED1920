@@ -1,0 +1,20 @@
+A Babruysk
+A BiharSharif
+A OSLO
+P Babruysk
+A Braga
+P Brasov
+a Dea:Braga:OSLO:1:10
+p Dea
+a LS1:OSLO:BiharSharif:7:10
+a LOP:BiharSharif:Braga:3:5
+a NSA:BiharSharif:Braga:10:0
+a 9RZ:Babruysk:Braga:5:8
+p Dea
+P Babruysk
+a eM2:OSLO:Babruysk:8:8
+a m7e:MALE:Babruysk:9:5
+l
+a 4Ps:Babruysk:Badlapur:7:9
+a Vzk:OSLO:Babruysk:1:2
+x

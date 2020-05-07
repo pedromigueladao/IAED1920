@@ -1,0 +1,17 @@
+p Lv7
+l
+s Lv7:5:6
+P NIAMEY
+A Bogota
+A BRIDGETOWN
+A BahirDar
+l
+a CD1:NIAMEY:Bogota:9:6
+a Dv3:BRIDGETOWN:Bogota:8:5
+a vWF:Bogota:BRIDGETOWN:8:7
+P Berkeley
+l
+a MxG:Bogota:BahirDar:3:2
+a znN:BahirDar:Bogota:1:8
+s MxG:8:3
+x

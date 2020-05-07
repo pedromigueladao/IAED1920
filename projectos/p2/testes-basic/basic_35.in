@@ -1,0 +1,20 @@
+p aXc
+A Brisbane
+A Buzau
+P Buzau
+p aXc
+A Bukan
+a qJ3:Brisbane:Buzau:0:7
+A PORTOF
+a DRN:Bukan:Buzau:1:5
+a GUm:PORTOF:Brisbane:7:10
+A PORTOF
+A BeloHorizonte
+p GUm
+P Brisbane
+A Bettiah
+a KMV:BeloHorizonte:Bozhou:7:6
+P PORTOF
+A Bettiah
+a pJX:Bettiah:Buzau:8:3
+x

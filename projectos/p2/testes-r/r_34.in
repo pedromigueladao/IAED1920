@@ -1,0 +1,15 @@
+P Bansberia
+p XEd
+A Bhagalpur
+r XEd
+A DAKAR
+A Bergamo
+A Bergamo
+r kIB
+a Dya:Bergamo:DAKAR:9:0
+A DAKAR
+r Dya
+a if5:Bhagalpur:Bergamo:1:3
+a me4:DAKAR:Bergamo:4:9
+r me4
+x

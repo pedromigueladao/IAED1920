@@ -1,0 +1,19 @@
+P SOUTHTARAWA
+p 1w0
+a jqM:SOUTHTARAWA:Bidhannagar:10:2
+A ASHGABAT
+A Bacabal
+A HONIARA
+P Bacabal
+P AMSTERDAM
+p jqM
+P PORTLOUIS
+a XRg:HONIARA:SOUTHTARAWA:1:6
+A PRAIA
+P PRAIA
+A Burnaby
+P Bacabal
+a vLM:HONIARA:Bacabal:4:0
+a uLd:SOUTHTARAWA:Burnaby:2:0
+p vLM
+x

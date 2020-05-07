@@ -1,0 +1,18 @@
+A Bardhaman
+a qvL:Bilaspur:BordjBouArreridj:10:10
+A BordjElKiffan
+P Bardhaman
+a qvL:MALE:Bydgoszcz:2:5
+P Bardhaman
+p qvL
+A AMSTERDAM
+a ZJh:AMSTERDAM:Bardhaman:1:6
+P AMSTERDAM
+p 19T
+a yxh:BordjElKiffan:Bardhaman:10:7
+p ZJh
+A Batu
+a DkF:AMSTERDAM:Batu:6:1
+p qvL
+a Sl1:Batu:AMSTERDAM:7:3
+x

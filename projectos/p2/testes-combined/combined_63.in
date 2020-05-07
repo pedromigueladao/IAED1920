@@ -1,0 +1,18 @@
+p q2z
+a 9T3:Baliuag:Brussels:2:6
+A Baliuag
+a pAZ:Barreiras:Baliuag:8:10
+A Bobo-Dioulasso
+A Anzoategui
+a Ht2:Baliuag:Bobo-Dioulasso:2:6
+a lBM:Bobo-Dioulasso:Anzoategui:0:9
+A Benguela
+r pAZ
+r q2z
+s Ht2:3:8
+a lBM:COPENHAGEN:Bouake:3:3
+g
+a quD:Bobo-Dioulasso:Benguela:2:10
+a Mse:Baliuag:Bobo-Dioulasso:0:4
+P Bani
+x

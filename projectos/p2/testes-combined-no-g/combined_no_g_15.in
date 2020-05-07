@@ -1,0 +1,20 @@
+A LUSAKA
+l
+p gQw
+A Burgas
+A Butuan
+s gQw:10:8
+a Pxx:LUSAKA:Butuan:4:8
+p Pxx
+P Butuan
+s gQw:3:10
+A Barranquilla
+s Eig:5:2
+a kiT:Burgas:Barranquilla:10:10
+a wRx:Burgas:Butuan:4:4
+a Pxx:Bayannur:PRAGUE:7:7
+p kiT
+r wRx
+P LUSAKA
+r fmx
+x

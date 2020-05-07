@@ -1,0 +1,14 @@
+P SAINTGEORGE'S
+A Bagalkot
+a FJo:Bagaha:MANILA:4:6
+A Bucheon
+A BandarAbbas
+r 4Bt
+P BandarAbbas
+A Bochum
+a lqU:BandarAbbas:SAINTGEORGE'S:5:6
+p lqU
+a irp:Bucheon:Bagalkot:8:3
+g
+a Frl:Bucheon:SAINTGEORGE'S:2:0
+x

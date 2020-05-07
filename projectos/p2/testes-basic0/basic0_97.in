@@ -1,0 +1,17 @@
+A BokaroSteelCity
+P BokaroSteelCity
+p tKN
+P N'DJAMENA
+a dIw:MALE:BokaroSteelCity:7:3
+A Baghdad
+P Baghdad
+P BokaroSteelCity
+A NAYPYITAW
+a Xqh:NGERULMUD:BokaroSteelCity:1:2
+a R3z:BokaroSteelCity:Baghdad:6:2
+a 2TE:BokaroSteelCity:Baghdad:8:2
+A Borujerd
+A BokaroSteelCity
+a XQm:Baghdad:NAYPYITAW:9:4
+a rfw:Baghdad:NAYPYITAW:9:9
+x

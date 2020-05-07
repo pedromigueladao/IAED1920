@@ -1,0 +1,18 @@
+P Baoding
+a ln0:Baoding:SRIJAYAWARDENEPURAKOTTE:1:7
+p e16
+A Bridgeport
+A TIRANA
+A TEGUCIGALPA
+l
+a gp0:TIRANA:TEGUCIGALPA:0:4
+a vlH:TIRANA:Baidyabati:9:4
+P Bridgeport
+p gp0
+a 93C:TEGUCIGALPA:Bergamo:1:5
+A Blackpool
+A Brampton
+a duv:TIRANA:Baoding:9:3
+a xK4:Bridgeport:Blackpool:0:3
+a seg:Bridgeport:TEGUCIGALPA:7:2
+x

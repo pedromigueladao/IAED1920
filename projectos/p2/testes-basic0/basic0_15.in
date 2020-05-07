@@ -1,0 +1,19 @@
+A LUSAKA
+P Barranquilla
+a mJf:ANDORRALA:LUSAKA:1:4
+P LUSAKA
+a Jmd:LUSAKA:BUENOSAIRES:5:4
+A Bucharest
+a qa4:LUSAKA:Barretos:4:9
+A PODGORICA
+A Brittany
+A Bursa
+A PRISTINA
+A HAVANA
+p mJf
+A Bochum
+a 0qE:PRISTINA:Bursa:6:3
+a EMu:HAVANA:Bochum:4:9
+a mxe:LUSAKA:Bucharest:4:3
+p Jmd
+x

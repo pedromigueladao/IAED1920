@@ -1,0 +1,20 @@
+a 6US:Basirhat:NUR-SULTAN:4:9
+p 6US
+P NUR-SULTAN
+A Bidar
+A Bhiwadi
+a Avp:Bidar:NUR-SULTAN:1:9
+a fmf:NUR-SULTAN:Bhiwadi:9:2
+l
+A Burgas
+A MOSCOW
+A Birmingham
+A PARAMARIBO
+a 7sj:MOSCOW:Bhiwadi:8:2
+A PARAMARIBO
+a TSJ:MOSCOW:NUR-SULTAN:3:9
+a XcU:NUR-SULTAN:PARAMARIBO:4:5
+a 9Gn:MOSCOW:Birmingham:4:10
+A Biaystok
+a yKI:Biaystok:Burgas:6:7
+x

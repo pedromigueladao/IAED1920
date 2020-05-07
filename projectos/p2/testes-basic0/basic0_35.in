@@ -1,0 +1,20 @@
+p aXc
+A Brisbane
+A Buzau
+P Buzau
+p aXc
+A Bukan
+a qJ3:Brisbane:Buzau:0:7
+A PORTOF
+a DRN:Bukan:Buzau:1:5
+a GUm:PORTOF:Brisbane:7:10
+a rQ2:PORTOF:Brisbane:10:2
+p GUm
+p 5VW
+P Buzau
+p qJ3
+a KMV:CARACAS:Bukan:7:6
+P PORTOF
+A Buzau
+A Blackburn
+x

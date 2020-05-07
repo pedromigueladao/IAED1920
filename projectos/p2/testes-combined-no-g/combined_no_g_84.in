@@ -1,0 +1,18 @@
+P Buraidah
+l
+A Bole
+A Bukavu
+a 1OK:Buraidah:Bukavu:10:7
+A Bogota
+A BRIDGETOWN
+A BahirDar
+l
+a mCD:BRIDGETOWN:Buraidah:9:6
+a WHP:BahirDar:Bukavu:2:7
+a G35:BRIDGETOWN:Bukavu:2:4
+a CX1:Bogota:BRIDGETOWN:9:2
+l
+a JKD:BRIDGETOWN:Bole:9:5
+a 7Yk:Bole:BytomCAPITAL:6:2
+a HXX:BRIDGETOWN:Buraidah:8:8
+x

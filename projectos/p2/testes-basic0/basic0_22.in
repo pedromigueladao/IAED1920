@@ -1,0 +1,18 @@
+P MONROVIA
+p zfN
+a xgI:MONROVIA:PORTOF:7:7
+P MONROVIA
+A Bhagalpur
+A Bryansk
+p xgI
+P BilaTserkva
+a VJa:Bryansk:Bosaso:1:8
+P Bryansk
+p VJa
+P MONROVIA
+a IDT:Bryansk:Bhagalpur:8:10
+a RI6:MONROVIA:Bryansk:5:4
+a mKb:Bhagalpur:MONROVIA:2:2
+p zvx
+a vIb:Bryansk:Bhagalpur:1:3
+x

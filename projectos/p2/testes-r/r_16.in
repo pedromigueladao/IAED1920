@@ -1,0 +1,19 @@
+r DMJ
+r WLo
+P Beersheba
+A Bhalwal
+A Bochum
+a F44:Bochum:ANDORRALA:9:4
+r F44
+p mIU
+P Beersheba
+r mIU
+a uM9:Beersheba:Bochum:0:1
+P Binzhou
+r uM9
+a a6R:Bochum:Bhalwal:10:8
+r a6R
+a 2OY:Beersheba:Bhalwal:10:0
+r 2OY
+A Baku
+x

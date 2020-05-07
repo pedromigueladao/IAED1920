@@ -1,0 +1,18 @@
+p 9HM
+A LUSAKA
+r 9HM
+a Vsq:Baguio:LUSAKA:5:1
+a r4x:BandarSeriBegawan:LUSAKA:7:10
+A MANAGUA
+P Botosani
+P LUSAKA
+A Brasilia
+A Bauru
+a hra:Brasilia:MANAGUA:7:8
+A NGERULMUD
+A Balashikha
+p r4x
+a EZo:LUSAKA:Balashikha:8:2
+a 2yg:NGERULMUD:MANAGUA:5:9
+P LUSAKA
+x

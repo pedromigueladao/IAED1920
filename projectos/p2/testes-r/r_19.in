@@ -1,0 +1,18 @@
+r VAM
+p Gf1
+P Bhatpara
+p Gf1
+r Gf1
+l
+A BandarSeriBegawan
+r Prr
+P BandarSeriBegawan
+A BatuPahat
+P BandarSeriBegawan
+a LlG:BatuPahat:Bhatpara:9:6
+A Burao
+r LlG
+a APd:Barreiras:Bellevue:5:7
+a sae:Bhatpara:Brno:9:8
+a 8gX:Bhatpara:BatuPahat:2:5
+x

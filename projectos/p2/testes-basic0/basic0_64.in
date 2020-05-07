@@ -1,0 +1,14 @@
+P Baruta
+p 8Ox
+A Buxar
+A Belgorod
+p 8Ox
+P Buxar
+p 8Ox
+A Ballia
+p 8Ox
+a s17:Belgorod:Buxar:5:0
+a YoQ:Ballia:Belgorod:5:4
+P Ballia
+a 4dP:Ballia:Belgorod:1:2
+x

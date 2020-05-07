@@ -1,0 +1,19 @@
+P Basirhat
+s UYN:0:2
+A Bidar
+A Basirhat
+a DAh:HELSINKI:Bidar:3:1
+p DAh
+l
+A Bardhaman
+a imm:Basirhat:Bardhaman:1:5
+A MOSCOW
+A Birmingham
+a lJJ:Birmingham:Bardhaman:4:4
+A Bayamon
+a MaT:MOSCOW:Bardhaman:8:3
+p imm
+A Balashikha
+P Bardhaman
+a JH5:KIGALI:Bidar:4:10
+x

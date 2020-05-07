@@ -1,0 +1,16 @@
+p PeP
+P Bakersfield
+l
+s PeP:8:3
+s PeP:0:4
+p PeP
+A Bangalore
+a PeP:Berdyansk:Burao:10:0
+A ABUJA
+s PeP:10:4
+a RDo:Bakersfield:ABUJA:0:0
+g
+P Bangalore
+s RDo:9:1
+a H9X:Bangalore:ABUJA:0:5
+x

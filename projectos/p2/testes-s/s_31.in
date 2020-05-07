@@ -1,0 +1,16 @@
+p v2y
+l
+s v2y:4:7
+A JAKARTA
+l
+A Beed
+p v2y
+l
+P Beed
+p v2y
+a v2y:ISLAMABAD:Bekasi:0:7
+A JAKARTA
+l
+s v2y:2:9
+p v2y
+x

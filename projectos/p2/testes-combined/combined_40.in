@@ -1,0 +1,17 @@
+p 4Ev
+l
+s 4Ev:7:0
+P Braganca
+A MALE
+a H6V:MALE:MUSCAT:6:7
+s H6V:7:10
+s uf4:2:1
+P Braganca
+A BAGHDAD
+g
+p ULr
+p H6V
+g
+l
+a H6V:BUDAPEST:BatonRouge:6:10
+x

@@ -1,0 +1,20 @@
+p WeX
+P SANTODOMINGO
+a PSP:SANTODOMINGO:SANTODOMINGO:1:5
+P SANTODOMINGO
+p PSP
+A Bozhou
+p PSP
+A Bangalore
+a 9lv:Bangalore:Bozhou:10:0
+a iuF:Bozhou:Bangalore:3:0
+a sA3:SANTODOMINGO:MASERU:3:0
+P SANTODOMINGO
+P Bangalore
+a t1L:SANTODOMINGO:Bangalore:1:4
+P Bangalore
+a F0H:SANTODOMINGO:Bozhou:2:5
+A Bekasi
+a aCz:Bekasi:Bangalore:9:5
+P Bozhou
+x

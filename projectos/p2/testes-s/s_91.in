@@ -1,0 +1,17 @@
+A Bamenda
+P Bogota
+l
+A Begusarai
+l
+l
+a 2G6:Begusarai:BRUSSELS:7:3
+l
+s 2G6:5:3
+A BAMAKO
+a h8T:BAMAKO:CANBERRA:3:0
+P BAMAKO
+a Vp5:Begusarai:Bamenda:4:8
+p h8T
+a UTy:Bamenda:Bettiah:7:9
+a gTL:Begusarai:Bamenda:10:8
+x

@@ -1,0 +1,21 @@
+p X03
+A Betul
+A VICTORIA
+A Bataysk
+a Z5q:VICTORIA:Betul:10:6
+s z22:10:3
+r X03
+s w43:2:0
+A Betul
+p Z5q
+A VATICANCITY
+a K7a:Betul:VICTORIA:10:1
+r Z5q
+P VATICANCITY
+a 65d:VICTORIA:VATICANCITY:0:4
+a Zrn:Betul:VICTORIA:8:2
+g
+a LuI:VATICANCITY:Betul:9:0
+a txe:Betul:VATICANCITY:10:1
+A Bacau
+x

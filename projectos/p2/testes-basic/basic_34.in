@@ -1,0 +1,16 @@
+A ADDISABABA
+p dlm
+A Bulandshahr
+A DAKAR
+a l08:ADDISABABA:DAKAR:3:10
+P ADDISABABA
+a OYB:Bulandshahr:ADDISABABA:7:6
+A Balashikha
+A SAINTJOHN-S
+p dlm
+a f5e:ADDISABABA:Bulandshahr:3:7
+A MAPUTO
+p l08
+A Brazzaville
+a FTJ:DAKAR:SAINTJOHN-S:10:9
+x

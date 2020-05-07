@@ -1,0 +1,17 @@
+s p15:0:4
+A LISBON
+a Y0c:BandarLampung:Bhatpara:10:10
+l
+s Y0c:5:4
+p 4Og
+a vZw:Baghdad:LISBON:0:2
+A Bacoor
+P LISBON
+A SKOPJE
+l
+A SANTIAGO
+P Badlapur
+p Y0c
+a GDW:SANTIAGO:Bacoor:5:0
+p GDW
+x

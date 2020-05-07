@@ -1,0 +1,21 @@
+p Br8
+r Br8
+P Botosani
+P Botosani
+r 6fC
+A NIAMEY
+A PORTMORESBY
+a CcX:NIAMEY:Botosani:6:5
+a OOS:NIAMEY:PORTMORESBY:5:9
+A BLOEMFONTEIN
+r OOS
+r CcX
+A LISBON
+A Barbacena
+A BAKU
+l
+a o4B:LISBON:Botosani:5:10
+p o4B
+a M5N:NIAMEY:PORTMORESBY:4:0
+a 6jn:Botosani:NIAMEY:10:4
+x

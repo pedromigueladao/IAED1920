@@ -1,0 +1,19 @@
+g
+p iPD
+s iPD:7:8
+a kdD:Bilaspur:MANAMA:8:0
+P Bilaspur
+g
+A Bridgeport
+A BaniSuwayf
+r dLj
+A Bogota
+P Bogota
+l
+a dwU:BaniSuwayf:Bogota:7:10
+s kdD:7:6
+P Bogota
+a avE:Bilaspur:BaniSuwayf:10:0
+a x9J:BaniSuwayf:Bilaspur:8:9
+A ZAGREB
+x

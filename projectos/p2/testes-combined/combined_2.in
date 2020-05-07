@@ -1,0 +1,20 @@
+p O8u
+s O8u:0:5
+P Brussels
+s KKi:1:7
+A DILI
+P DILI
+s D1U:6:5
+a O8u:ACCRA:COPENHAGEN:10:2
+P Burbank
+a O8u:Bursa:Binan:10:1
+a O8u:Barika:Baghlan:5:8
+g
+P Brussels
+A Bissau
+a N0o:Bissau:DILI:7:9
+s O8u:10:10
+P PARAMARIBO
+l
+r iGq
+x

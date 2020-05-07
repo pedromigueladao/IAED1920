@@ -1,0 +1,18 @@
+P BahiaBlanca
+A BatYam
+a 6zU:BahiaBlanca:Bergen:8:8
+a 6zU:CASTRIES:MANAMA:1:7
+P LIBREVILLE
+p 6zU
+A BahiaBlanca
+a Gjc:BatYam:TEHRAN:0:0
+P CASTRIES
+A FREETOWN
+A THIMPHU
+P BatYam
+p 6zU
+a EXF:FREETOWN:THIMPHU:3:5
+a 056:BatYam:FREETOWN:10:1
+P Babruysk
+a 056:Bijapur:Barcelona:10:10
+x

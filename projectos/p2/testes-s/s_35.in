@@ -1,0 +1,20 @@
+A Balikpapan
+A Brisbane
+A Buzau
+l
+a Z0v:Brisbane:Balikpapan:5:1
+l
+a 3bE:Brisbane:Buzau:0:10
+p 3bE
+s Z0v:7:10
+p 3bE
+a 9bG:Brisbane:Buzau:3:7
+p 9bG
+a 27Q:Brisbane:Buzau:2:5
+a W9b:Brisbane:Buzau:2:10
+p mR4
+a VJV:Brisbane:RABAT:6:1
+s 9bG:10:8
+p VJV
+a jhi:Buzau:Balikpapan:1:8
+x

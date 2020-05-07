@@ -1,0 +1,17 @@
+p K6B
+A VALLETTA
+g
+g
+A SANSALVADOR
+A VALLETTA
+A Bei'an
+A Bagalkot
+A Bafoussam
+a eyw:VALLETTA:ASUNCION:1:5
+p K6B
+g
+a Aex:SANSALVADOR:Bagalkot:3:1
+s Aex:9:4
+a I4u:Bagalkot:SANSALVADOR:7:10
+P VALLETTA
+x

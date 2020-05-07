@@ -1,0 +1,20 @@
+P Bouira
+p dj7
+a kaS:Bouira:Bardhaman:3:4
+p kaS
+A Bologna
+A Bejaia
+P Bouira
+a UL1:Bologna:Bouira:6:9
+p kaS
+a Wss:Bouira:Bologna:10:4
+a M7k:Bejaia:Bouira:5:2
+A Beira
+a vJC:BERN:Bejaia:1:4
+a yDk:Bouira:Bologna:0:6
+A VADUZ
+P Bejaia
+a 6br:Bejaia:Beira:2:2
+a E87:Bouira:Beira:0:0
+p kaS
+x
