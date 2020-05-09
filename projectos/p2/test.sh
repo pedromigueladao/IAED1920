@@ -21,7 +21,7 @@ test_dir="${1}"
 shift
 prog_name=foo_${RANDOM}
 DIFF="diff"
-CC="gcc -ansi -Wall -Wextra -pedantic -fsanitize=address"
+CC="gcc -ansi -Wall -Wextra -pedantic -g -fsanitize=address"
 diff_opts="--ignore-space-change --ignore-blank-lines"
 
 # use color for diff, if supported
