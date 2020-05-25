@@ -1,9 +1,9 @@
 #!/bin/bash
 #
-# File:  test.sh
+# File:  test-plain.sh
 # Author:  mikolas
-# Created on:  Sun Feb 17 13:31:59 STD 2019
-# Copyright (C) 2019, Mikolas Janota
+# Created on:  Wed May 13 10:41:37 WEST 2020
+# Copyright (C) 2020, Mikolas Janota
 #
 
 RED='\033[0;31m'
@@ -21,7 +21,7 @@ test_dir="${1}"
 shift
 prog_name=foo_${RANDOM}
 DIFF="diff"
-CC="gcc -ansi -Wall -Wextra -pedantic -g -fsanitize=address"
+CC="gcc -ansi -Wall -Wextra -pedantic"
 diff_opts="--ignore-space-change --ignore-blank-lines"
 
 # use color for diff, if supported

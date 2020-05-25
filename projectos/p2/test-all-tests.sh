@@ -16,11 +16,11 @@ if [ $# -lt 1 ] ; then
     exit 1
 fi
 
-DO_NOT_TIME=1
+
 for d in `ls -d testes-*`
 do
     echo "testing $d"
-    if ./test.sh  "$d" $* >/dev/null
+    if DO_NOT_TIME=1 ./test.sh  "$d" $* >/dev/null
     then
         echo -n -e "${GREEN}${d} PASSED!\n${NC}"
      else

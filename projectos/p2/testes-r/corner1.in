@@ -1,0 +1,15 @@
+A team 1
+A team 2
+A team 3
+a Game 1:team 1:team 2:17:7
+r Game 1
+l
+a Game 1:team 1:team 2:17:7
+a Game 2:team 1:team 3:1:3
+r Game 2
+l
+a Game 2:team 1:team 3:1:3
+l
+r Game 1
+l
+x
