@@ -19,7 +19,8 @@ As perguntas serão disponibilizadas [aqui](perguntas.md). (Fazer `git pull` no 
 
 Recordamos que os enunciados dos projectos podem ser encontrados [aqui (P1)](https://github.com/pedromigueladao/IAED1920/tree/master/projectos/p1) e [aqui (P2)](https://github.com/pedromigueladao/IAED1920/tree/master/projectos/p2).
 
-Os testes que foram executados no Mooshak podem ser encontrados [aqui (P1)](https://fenix.tecnico.ulisboa.pt/downloadFile/1126518382247359/P1-testes-mooshak.zip) e [aqui (P2-disponíveis no dia 26 de Maio)]().
+Os testes que foram executados no Mooshak podem ser encontrados [aqui (P1)](https://fenix.tecnico.ulisboa.pt/downloadFile/1126518382247359/P1-testes-mooshak.zip) e
+[aqui (P2)](https://fenix.tecnico.ulisboa.pt/downloadFile/1689468335639728/testes-mooshak-p2.tgz).
 
 ### Compromisso de Honra
 
