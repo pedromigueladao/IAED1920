@@ -11,7 +11,7 @@
 
 __Ao submeter esta avaliação online, cada aluno declara por sua honra que irá resolver a prova recorrendo apenas aos elementos de consulta autorizados, de forma autónoma e sem trocar qualquer informação por qualquer meio, com qualquer pessoa ou repositório de informação, físico ou virtual. [link](https://sartre.tecnico.ulisboa.pt/codigo-honra/)__
 
-## Pergunta A - Projecto 1 (16h00-16h15)
+## Pergunta A - Projecto 1 (16h00-16h45)
 
 __A1.__ Altere o comando `N` por forma a que este receba um parâmetro que é um nome de cliente (uma string não vazia, sem espaços, com um máximo de 63 caracteres).
 
@@ -28,7 +28,7 @@ Os comandos alterados/novos deverão por isso ser os seguintes:
   - Formato de saída: `<ide> <cliente>.` onde `<ide>` é o identificador da encomenda criada e `<cliente>` é o nome do cliente da encomenda.
     - `Impossivel listar encomenda <ide>. Encomenda inexistente.` no caso de não existir nenhuma encomenda criada com esse identificador
 
-## Pergunta B - Projecto 1 (16h15-16h35)
+## Pergunta B - Projecto 1 (16h25-16h45)
 
 - Esta pergunta depende da pergunta `A`. Assuma que a realizou correctamente na submissão a esta pergunta.
 
@@ -47,6 +47,21 @@ O comando novo deverá por isso ser o seguinte:
         * <iden> <custon>
   - Erros: Não aplicável
 
-## Pergunta C - Projecto 2 (16h35-16h55)
+## Pergunta C - Projecto 2 (16h45-17h40)
 
-## Pergunta D - Projecto 2 (16h55-17h30)
+__C1.__ Altere o comando `a` por forma a que este receba um parâmetro extra que é _informação adicional sobre o jogo_ (uma string não vazia, geralmente pequena, mas com um máximo de 1023 caracteres `%1023[^:\n]`).
+
+__C2.__ Altere os comandos `l` e `p` por forma a listarem também a _informação adicional sobre o jogo_.
+
+        NL nome-jogo nome-equipa1 nome-equipa2 score1 score2 info-adicional
+
+O comando alterado deverá por isso ser o seguinte:
+
+- __a__ - Adiciona um novo jogo.
+  - Formato de entrada: `a nome:equipa1:equipa2:score1:score2:info`
+  - Formato de saída: NADA (excepto erro).
+  - Erros:
+    - `NL Jogo existente.` no caso de já existir um jogo com esse nome no sistema.
+    - `NL Equipa inexistente.` no caso de uma das equipas ou ambas não existirem no sistema.
+
+## Pergunta D - Projecto 2 (17h00-17h40)
