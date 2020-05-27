@@ -30,6 +30,23 @@ Os comandos alterados/novos deverão por isso ser os seguintes:
 
 ## Pergunta B - Projecto 1 (16h15-16h35)
 
+- Esta pergunta depende da pergunta `A`. Assuma que a realizou correctamente na submissão a esta pergunta.
+
+__B.__ Crie o comando `Y` que lista todas as encomendas por ordem crescente de custo. _Não se esqueça de adicionar a opção `Y` ao `switch` dos comandos_.
+
+O comando novo deverá por isso ser o seguinte:
+
+- __Y__ - lista todas as encomendas existentes no sistema por ordem crescente do seu custo total. Se houver 2 ou mais encomendas com o mesmo custo, deverá imprimir essas por ordem crescente de `id` de encomenda
+  - Formato de entrada: `Y`
+  - Formato de saída: Um bloco no formato abaixo, e em que as encomendas são listadas por ordem crescente de custo
+
+        Encomendas
+        * <ide1> <custo1>
+        * <ide2> <custo2>
+        ...
+        * <iden> <custon>
+  - Erros: Não aplicável
+
 ## Pergunta C - Projecto 2 (16h35-16h55)
 
 ## Pergunta D - Projecto 2 (16h55-17h30)
