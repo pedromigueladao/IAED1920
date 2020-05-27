@@ -4,6 +4,11 @@
 
 ## LOG alterações
 
+- 27Mai2020 - Adiciona versão base do ficheiro `perguntas.md`.
+- 27Mai2020 - Adiciona informação respeitante ao identificador Zoom de cada aluno.
+- 27Mai2020 - Adiciona link de registo no Mooshak, Zoom para Alameda e TAGUS.
+- 26Mai2020 - Adiciona link para Testes do Mooshak do P2.
+
 ## 1. Introdução
 
 O objectivo deste teste é avaliar a capacidade dos alunos efectuarem alterações/adições aos projectos desenvolvidos durante o semestre na cadeira de IAED.
@@ -35,10 +40,11 @@ __Ao submeter esta avaliação online, cada aluno declara por sua honra que irá
 5. Testem os vossos projectos localmente antes de os submeter no Mooshak por forma a optimizar o vosso tempo.
 6. Submetam as vossas soluções no Mooshak assim que tiverem resolvido cada uma das perguntas.
 7. O sistema não permitirá submissões com menos de 5 minutos de intervalo para cada aluno. Tenham especial atenção a este facto na altura da submissão final.
-8. __Para o sistema Mooshak deverão usar a mesma password que foi usada no Projecto 2. Quem não tiver realizado o Projecto 2, deverá registar-se através do link que será disponibilizado oportunamente [aqui]()__
+8. __Para o sistema Mooshak deverão usar a mesma password que foi usada no Projecto 2. Quem não tiver realizado o Projecto 2, deverá registar-se através do link que será disponibilizado oportunamente [aqui](http://acp.tecnico.ulisboa.pt/~mooshak/cgi-bin/iaed1920s2getpass)__
 9. __Cada pergunta estará identificada por uma letra. Deverá submeter cada resposta no problema correspondente do Mooshak.__
 10. __Cada aluno deverá registar o seu utilizador na plataforma Zoom com o e-mail `tecnico.ulisboa.pt`.__
-11. Existirá uma sessão Zoom, com link a disponibilizar [aqui (Alameda)]() e [aqui (Tagus)](), que será usada para monitorizar a execução do teste. Cada aluno deverá fazer login com a conta definida acima, e deverá manter a câmara do seu computador ligada durante todo o teste prático.
+11. Existirá uma sessão Zoom, com link a disponibilizar [aqui (Alameda)](https://videoconf-colibri.zoom.us/j/620437566?pwd=MTlTa3B4MUpqOXFNdmY5dFZrL3VTUT09) e [aqui (Tagus)](https://videoconf-colibri.zoom.us/j/92556592505?pwd=RUZHNnZSZzZpVERyVXNIT2luNmJoZz09), que será usada para monitorizar a execução do teste. Cada aluno deverá fazer login com a conta definida acima, e deverá manter a câmara do seu computador ligada durante todo o teste prático.
+12. __Cada aluno deverá utilizar um identificador na sessão Zoom no seguinte formato `identificadorMooshak/Nome`, eg, `al123456:José Almeida`.__
 
 ## 3. Compilação do Programa
 
@@ -75,14 +81,14 @@ Se apenas indicar o tempo de execução é porque o comando `diff` não encontro
 
 A entrega do projecto será feita através do sistema [Mooshak](http://acp.tecnico.ulisboa.pt/~mooshak/) e deverá respeitar o procedimento seguinte:
 
-* Efectue __para cada pergunta__ o upload de um ficheiro arquivo com extensão `.zip` que inclua todos os ficheiros fonte que constituem o programa.
-  * Se o seu código tiver apenas um ficheiro o zip conterá apenas esse ficheiro.
+- Efectue __para cada pergunta__ o upload de um ficheiro arquivo com extensão `.zip` que inclua todos os ficheiros fonte que constituem o programa.
+  - Se o seu código tiver apenas um ficheiro o zip conterá apenas esse ficheiro.
 
         $ zip proj1.zip proj1.c
-  * Se o seu código estiver estruturado em vários ficheiros (`.c` e `.h`) não se esqueça de os juntar também ao pacote.
+  - Se o seu código estiver estruturado em vários ficheiros (`.c` e `.h`) não se esqueça de os juntar também ao pacote.
 
         $ zip proj1.zip *.c *.h
 
-* O sistema não permite submissões com menos de 5 minutos de intervalo para cada aluno. Tenha especial atenção a este facto na altura da submissão final.
+- O sistema não permite submissões com menos de 5 minutos de intervalo para cada aluno. Tenha especial atenção a este facto na altura da submissão final.
 
-* Até à hora limite de submissão de cada pergunta poderá efectuar o número de submissões que desejar, sendo utilizada para efeitos de avaliação a última submissão efectuada. Deverá portanto verificar cuidadosamente que a última submissão corresponde à versão da resposta que pretende que seja avaliada. Não existirão excepções a esta regra.
+- Até à hora limite de submissão de cada pergunta poderá efectuar o número de submissões que desejar, sendo utilizada para efeitos de avaliação a última submissão efectuada. Deverá portanto verificar cuidadosamente que a última submissão corresponde à versão da resposta que pretende que seja avaliada. Não existirão excepções a esta regra.
